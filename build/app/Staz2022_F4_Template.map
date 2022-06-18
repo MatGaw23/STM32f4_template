@@ -1,0 +1,443 @@
+Archive member included to satisfy reference by file (symbol)
+
+../src/libMy_library.a(my_lib.c.obj)
+                              CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj (my_lib_get_value)
+c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-exit.o)
+                              c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (exit)
+c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+                              c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-init.o)
+                              c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
+c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
+                              c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (memset)
+c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+                              c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x00000000        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x00000000        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x00000000        0x4 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .fini_array    0x00000000        0x4 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x00000000       0x7c c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .data          0x00000000        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .bss           0x00000000        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.exidx     0x00000000       0x10 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.attributes
+                0x00000000       0x1c c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .group         0x00000000        0xc CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .text          0x00000000        0x0 CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .data          0x00000000        0x0 CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .text.main     0x00000000        0xe CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .debug_info    0x00000000       0xb6 CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .debug_abbrev  0x00000000       0x69 CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .debug_loc     0x00000000       0x38 CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .debug_aranges
+                0x00000000       0x20 CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .debug_ranges  0x00000000       0x10 CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .debug_macro   0x00000000       0xb5 CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .debug_macro   0x00000000      0xa6c CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .debug_macro   0x00000000       0x65 CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .debug_macro   0x00000000       0x3b CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .debug_macro   0x00000000       0x51 CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .debug_macro   0x00000000       0x34 CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .debug_macro   0x00000000       0x26 CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .debug_macro   0x00000000      0xe43 CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .debug_macro   0x00000000     0x91de CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .debug_line    0x00000000      0x2b5 CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .debug_str     0x00000000    0x3c07f CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .comment       0x00000000       0x4a CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .debug_frame   0x00000000       0x30 CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+ .text          0x00000000       0x14 CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+ .data          0x00000000        0x0 CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+ .bss           0x00000000        0x0 CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+ .text.Reset_Handler
+                0x00000000       0x48 CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+ .text.Default_Handler
+                0x00000000        0x2 CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+ .isr_vector    0x00000000      0x188 CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+ .debug_line    0x00000000       0x92 CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+ .debug_info    0x00000000       0x22 CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+ .debug_abbrev  0x00000000       0x12 CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+ .debug_aranges
+                0x00000000       0x28 CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+ .debug_str     0x00000000       0x67 CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+ .debug_ranges  0x00000000       0x20 CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+ .ARM.attributes
+                0x00000000       0x21 CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+ .group         0x00000000        0xc ../src/libMy_library.a(my_lib.c.obj)
+ .group         0x00000000        0xc ../src/libMy_library.a(my_lib.c.obj)
+ .group         0x00000000        0xc ../src/libMy_library.a(my_lib.c.obj)
+ .group         0x00000000        0xc ../src/libMy_library.a(my_lib.c.obj)
+ .group         0x00000000        0xc ../src/libMy_library.a(my_lib.c.obj)
+ .group         0x00000000        0xc ../src/libMy_library.a(my_lib.c.obj)
+ .group         0x00000000        0xc ../src/libMy_library.a(my_lib.c.obj)
+ .text          0x00000000        0x0 ../src/libMy_library.a(my_lib.c.obj)
+ .data          0x00000000        0x0 ../src/libMy_library.a(my_lib.c.obj)
+ .bss           0x00000000        0x0 ../src/libMy_library.a(my_lib.c.obj)
+ .text.my_lib_get_value
+                0x00000000       0x10 ../src/libMy_library.a(my_lib.c.obj)
+ .debug_info    0x00000000       0xa7 ../src/libMy_library.a(my_lib.c.obj)
+ .debug_abbrev  0x00000000       0x5a ../src/libMy_library.a(my_lib.c.obj)
+ .debug_loc     0x00000000       0x44 ../src/libMy_library.a(my_lib.c.obj)
+ .debug_aranges
+                0x00000000       0x20 ../src/libMy_library.a(my_lib.c.obj)
+ .debug_ranges  0x00000000       0x10 ../src/libMy_library.a(my_lib.c.obj)
+ .debug_macro   0x00000000       0x6d ../src/libMy_library.a(my_lib.c.obj)
+ .debug_macro   0x00000000      0xa66 ../src/libMy_library.a(my_lib.c.obj)
+ .debug_macro   0x00000000       0x22 ../src/libMy_library.a(my_lib.c.obj)
+ .debug_macro   0x00000000       0x8e ../src/libMy_library.a(my_lib.c.obj)
+ .debug_macro   0x00000000       0x51 ../src/libMy_library.a(my_lib.c.obj)
+ .debug_macro   0x00000000      0x103 ../src/libMy_library.a(my_lib.c.obj)
+ .debug_macro   0x00000000       0x6a ../src/libMy_library.a(my_lib.c.obj)
+ .debug_macro   0x00000000      0x1df ../src/libMy_library.a(my_lib.c.obj)
+ .debug_line    0x00000000      0x1e7 ../src/libMy_library.a(my_lib.c.obj)
+ .debug_str     0x00000000     0x3c19 ../src/libMy_library.a(my_lib.c.obj)
+ .comment       0x00000000       0x4a ../src/libMy_library.a(my_lib.c.obj)
+ .debug_frame   0x00000000       0x30 ../src/libMy_library.a(my_lib.c.obj)
+ .ARM.attributes
+                0x00000000       0x34 ../src/libMy_library.a(my_lib.c.obj)
+ .text          0x00000000        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x28 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x48 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x10 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x20 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .text._exit    0x00000000        0x4 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .debug_frame   0x00000000       0x20 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x00000000        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x00000000        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .eh_frame      0x00000000        0x4 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x00000000        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .data          0x00000000        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .bss           0x00000000        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .init          0x00000000        0x8 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .fini          0x00000000        0x8 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .ARM.attributes
+                0x00000000       0x1e c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash            0x08000000         0x00100000         xr
+ram              0x20000000         0x00020000         xrw
+ccm              0x10000000         0x00010000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+LOAD c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+LOAD CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+LOAD CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+LOAD ../src/libMy_library.a
+START GROUP
+LOAD c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a
+LOAD c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a
+LOAD c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a
+END GROUP
+START GROUP
+LOAD c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a
+LOAD c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a
+END GROUP
+LOAD c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+LOAD c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x08000000                __rom_start__ = ORIGIN (flash)
+                0x00100000                __rom_size__ = LENGTH (flash)
+                0x20000000                __ram_start__ = ORIGIN (ram)
+                0x00020000                __ram_size__ = LENGTH (ram)
+                0x20020000                __ram_end__ = (__ram_start__ + __ram_size__)
+                0x20020000                __stack_end__ = __ram_end__
+                0x00004000                __stack_size__ = 0x4000
+                0x2001c000                __stack_start__ = (__stack_end__ - __stack_size__)
+                0x2000007c                __heap_start__ = __bss_end__
+                0x2001c000                __heap_end__ = __stack_start__
+                0x10000000                __ccm_start__ = ORIGIN (ccm)
+                0x00010000                __ccm_size__ = LENGTH (ccm)
+                0x2000007c                end = __heap_start__
+                0x00000000                . = 0x0
+
+.text           0x08000000       0x90
+ *(.startup)
+ *(.text*)
+ .text          0x08000000       0x40 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.rodata*)
+ .rodata        0x08000040       0x24 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .rodata._global_impure_ptr
+                0x08000064        0x4 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+                0x08000064                _global_impure_ptr
+ .rodata        0x08000068       0x24 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ *(.glue_7)
+ .glue_7        0x0800008c        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0800008c        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x0800008c        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x0800008c                . = ALIGN (0x4)
+                0x0800008c                __ctors_start__ = .
+ *(.init_array)
+ .init_array    0x0800008c        0x4 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.ctors)
+                0x08000090                __ctors_end__ = .
+                0x08000090                . = ALIGN (0x10)
+                0x08000090                __text_end__ = .
+
+.vfp11_veneer   0x08000090        0x0
+ .vfp11_veneer  0x08000090        0x0 linker stubs
+
+.v4_bx          0x08000090        0x0
+ .v4_bx         0x08000090        0x0 linker stubs
+
+.init           0x08000090        0x4
+ .init          0x08000090        0x4 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x08000090                _init
+
+.fini           0x08000094        0x4
+ .fini          0x08000094        0x4 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x08000094                _fini
+
+.iplt           0x08000098        0x0
+ .iplt          0x08000098        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.rel.dyn        0x08000098        0x0
+ .rel.iplt      0x08000098        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.data           0x20000000       0x60 load address 0x080000a0
+                0x20000000                __data_beg__ = .
+ *(.data*)
+ .data.impure_data
+                0x20000000       0x60 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+                0x20000060                __data_end__ = .
+
+.igot.plt       0x20000060        0x0 load address 0x08000100
+ .igot.plt      0x20000060        0x0 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.bss            0x20000060       0x1c load address 0x08000100
+                0x20000060                __bss_beg__ = .
+ *(.bss*)
+ .bss           0x20000060       0x1c c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(COMMON)
+                0x2000007c                __bss_end__ = .
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x2000007c                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x2000007c                __exidx_end = .
+OUTPUT(Staz2022_F4_Template.elf elf32-littlearm)
+LOAD linker stubs
+
+.ARM.attributes
+                0x00000000       0x30
+ .ARM.attributes
+                0x00000000       0x1e c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .ARM.attributes
+                0x0000001e       0x34 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x00000052       0x34 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000086       0x34 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+
+Cross Reference Table
+
+Symbol                                            File
+ADC_IRQHandler                                    CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+BusFault_Handler                                  CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+CAN1_RX0_IRQHandler                               CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+CAN1_RX1_IRQHandler                               CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+CAN1_SCE_IRQHandler                               CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+CAN1_TX_IRQHandler                                CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+CAN2_RX0_IRQHandler                               CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+CAN2_RX1_IRQHandler                               CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+CAN2_SCE_IRQHandler                               CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+CAN2_TX_IRQHandler                                CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+CRYP_IRQHandler                                   CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+DCMI_IRQHandler                                   CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+DMA1_Stream0_IRQHandler                           CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+DMA1_Stream1_IRQHandler                           CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+DMA1_Stream2_IRQHandler                           CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+DMA1_Stream3_IRQHandler                           CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+DMA1_Stream4_IRQHandler                           CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+DMA1_Stream5_IRQHandler                           CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+DMA1_Stream6_IRQHandler                           CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+DMA1_Stream7_IRQHandler                           CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+DMA2_Stream0_IRQHandler                           CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+DMA2_Stream1_IRQHandler                           CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+DMA2_Stream2_IRQHandler                           CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+DMA2_Stream3_IRQHandler                           CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+DMA2_Stream4_IRQHandler                           CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+DMA2_Stream5_IRQHandler                           CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+DMA2_Stream6_IRQHandler                           CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+DMA2_Stream7_IRQHandler                           CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+DebugMon_Handler                                  CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+Default_Handler                                   CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+ETH_IRQHandler                                    CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+ETH_WKUP_IRQHandler                               CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+EXTI0_IRQHandler                                  CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+EXTI15_10_IRQHandler                              CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+EXTI1_IRQHandler                                  CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+EXTI2_IRQHandler                                  CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+EXTI3_IRQHandler                                  CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+EXTI4_IRQHandler                                  CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+EXTI9_5_IRQHandler                                CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+FLASH_IRQHandler                                  CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+FPU_IRQHandler                                    CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+FSMC_IRQHandler                                   CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+HASH_RNG_IRQHandler                               CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+HardFault_Handler                                 CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+I2C1_ER_IRQHandler                                CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+I2C1_EV_IRQHandler                                CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+I2C2_ER_IRQHandler                                CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+I2C2_EV_IRQHandler                                CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+I2C3_ER_IRQHandler                                CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+I2C3_EV_IRQHandler                                CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+MemManage_Handler                                 CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+NMI_Handler                                       CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+OTG_FS_IRQHandler                                 CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+OTG_FS_WKUP_IRQHandler                            CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+OTG_HS_EP1_IN_IRQHandler                          CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+OTG_HS_EP1_OUT_IRQHandler                         CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+OTG_HS_IRQHandler                                 CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+OTG_HS_WKUP_IRQHandler                            CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+PVD_IRQHandler                                    CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+PendSV_Handler                                    CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+RCC_IRQHandler                                    CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+RTC_Alarm_IRQHandler                              CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+RTC_WKUP_IRQHandler                               CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+Reset_Handler                                     CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+SDIO_IRQHandler                                   CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+SPI1_IRQHandler                                   CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+SPI2_IRQHandler                                   CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+SPI3_IRQHandler                                   CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+SVC_Handler                                       CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+SysTick_Handler                                   CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+SystemInit                                        CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+TAMP_STAMP_IRQHandler                             CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+TIM1_BRK_TIM9_IRQHandler                          CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+TIM1_CC_IRQHandler                                CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+TIM1_TRG_COM_TIM11_IRQHandler                     CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+TIM1_UP_TIM10_IRQHandler                          CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+TIM2_IRQHandler                                   CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+TIM3_IRQHandler                                   CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+TIM4_IRQHandler                                   CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+TIM5_IRQHandler                                   CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+TIM6_DAC_IRQHandler                               CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+TIM7_IRQHandler                                   CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+TIM8_BRK_TIM12_IRQHandler                         CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+TIM8_CC_IRQHandler                                CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+TIM8_TRG_COM_TIM14_IRQHandler                     CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+TIM8_UP_TIM13_IRQHandler                          CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+UART4_IRQHandler                                  CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+UART5_IRQHandler                                  CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+USART1_IRQHandler                                 CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+USART2_IRQHandler                                 CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+USART3_IRQHandler                                 CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+USART6_IRQHandler                                 CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+UsageFault_Handler                                CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+WWDG_IRQHandler                                   CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+__bss_end__                                       c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+__bss_start__                                     c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+__call_exitprocs                                  c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-exit.o)
+__deregister_frame_info                           c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+__dso_handle                                      c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+__init_array_end                                  c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-init.o)
+__init_array_start                                c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-init.o)
+__libc_fini_array                                 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+__libc_init_array                                 c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-init.o)
+                                                  CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+                                                  c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+__preinit_array_end                               c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-init.o)
+__preinit_array_start                             c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-init.o)
+__register_frame_info                             c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+__sf_fake_stderr                                  c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+__sf_fake_stdin                                   c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+__sf_fake_stdout                                  c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+__stack                                           c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+_ebss                                             CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+_edata                                            CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+_estack                                           CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+_exit                                             c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+                                                  c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-exit.o)
+_fini                                             c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+_global_impure_ptr                                c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+                                                  c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-exit.o)
+_impure_ptr                                       c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+_init                                             c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                                                  c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-init.o)
+_mainCRTStartup                                   c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+_sbss                                             CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+_sdata                                            CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+_sidata                                           CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+_stack_init                                       c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+_start                                            c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+atexit                                            c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+exit                                              c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-exit.o)
+                                                  c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+g_pfnVectors                                      CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+hardware_init_hook                                c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+main                                              CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+                                                  CMakeFiles/Staz2022_F4_Template.elf.dir/startup_stm32f40_41xxx.s.obj
+                                                  c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+memset                                            c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
+                                                  c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+my_lib_get_value                                  ../src/libMy_library.a(my_lib.c.obj)
+                                                  CMakeFiles/Staz2022_F4_Template.elf.dir/main.c.obj
+software_init_hook                                c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o

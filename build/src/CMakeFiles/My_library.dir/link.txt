@@ -1,0 +1,2 @@
+C:/GNU_Arm_Embedded_Toolchain/10_2021_10/bin/arm-none-eabi-ar.exe qc libMy_library.a CMakeFiles/My_library.dir/my_lib.c.obj
+C:/GNU_Arm_Embedded_Toolchain/10_2021_10/bin/arm-none-eabi-ranlib.exe libMy_library.a

@@ -1,0 +1,81 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target"
+		],
+		"files" : 
+		[
+			"app/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 50,
+				"parent" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "Staz2022_F4_Template.elf-size::@5f5a17c01335469806cb"
+		},
+		{
+			"id" : "Staz2022_F4_Template.lss::@5f5a17c01335469806cb"
+		},
+		{
+			"id" : "Staz2022_F4_Template.hex::@5f5a17c01335469806cb"
+		},
+		{
+			"id" : "Staz2022_F4_Template.bin::@5f5a17c01335469806cb"
+		}
+	],
+	"id" : "Staz2022_F4_Template::@5f5a17c01335469806cb",
+	"name" : "Staz2022_F4_Template",
+	"paths" : 
+	{
+		"build" : "app",
+		"source" : "app"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "build/app/CMakeFiles/Staz2022_F4_Template",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/app/CMakeFiles/Staz2022_F4_Template.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,166 @@
+The target system is: Generic - 1 - ARM
+The host system is: Windows - 10.0.19042 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/GNU_Arm_Embedded_Toolchain/10_2021_10/bin/arm-none-eabi-gcc.exe 
+Build flags: -mthumb;-mcpu=cortex-m4;-mlittle-endian;-mfpu=fpv4-sp-d16;-mfloat-abi=hard;-mthumb-interwork;--specs=nano.specs;--specs=nosys.specs;;-fno-builtin;-Wall;-std=gnu99;-fdata-sections;-ffunction-sections;-g3;-gdwarf-2
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "D:/STAZ2022/templete_emb/build/CMakeFiles/3.22.0-rc1/CompilerIdC/a.out"
+
+Checking whether the ASM compiler is GNU using "--version" matched "(GNU assembler)|(GCC)|(Free Software Foundation)":
+arm-none-eabi-gcc.exe (GNU Arm Embedded Toolchain 10.3-2021.10) 10.3.1 20210824 (release)
+Copyright (C) 2020 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/STAZ2022/templete_emb/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/make.exe -f Makefile cmTC_7cab0/fast && C:/MinGW/bin/make.exe  -f CMakeFiles/cmTC_7cab0.dir/build.make CMakeFiles/cmTC_7cab0.dir/build
+make.exe[1]: Entering directory 'D:/STAZ2022/templete_emb/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7cab0.dir/CMakeCCompilerABI.c.obj
+C:/GNU_Arm_Embedded_Toolchain/10_2021_10/bin/arm-none-eabi-gcc.exe   -mthumb -mcpu=cortex-m4 -mlittle-endian -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb-interwork --specs=nano.specs --specs=nosys.specs  -fno-builtin -Wall -std=gnu99 -fdata-sections -ffunction-sections -g3 -gdwarf-2    -v -o CMakeFiles/cmTC_7cab0.dir/CMakeCCompilerABI.c.obj -c "C:/Program Files/CMake/share/cmake-3.22/Modules/CMakeCCompilerABI.c"
+Using built-in specs.
+Reading specs from c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/nano.specs
+rename spec link to nano_link
+rename spec link_gcc_c_sequence to nano_link_gcc_c_sequence
+rename spec cpp_unique_options to nano_cpp_unique_options
+Reading specs from c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/nosys.specs
+rename spec link_gcc_c_sequence to nosys_link_gcc_c_sequence
+COLLECT_GCC=C:/GNU_Arm_Embedded_Toolchain/10_2021_10/bin/arm-none-eabi-gcc.exe
+Target: arm-none-eabi
+Configured with: /mnt/workspace/workspace/GCC-10-pipeline/jenkins-GCC-10-pipeline-338_20211018_1634516203/src/gcc/configure --build=x86_64-linux-gnu --host=i686-w64-mingw32 --target=arm-none-eabi --prefix=/mnt/workspace/workspace/GCC-10-pipeline/jenkins-GCC-10-pipeline-338_20211018_1634516203/install-mingw --libexecdir=/mnt/workspace/workspace/GCC-10-pipeline/jenkins-GCC-10-pipeline-338_20211018_1634516203/install-mingw/lib --infodir=/mnt/workspace/workspace/GCC-10-pipeline/jenkins-GCC-10-pipeline-338_20211018_1634516203/install-mingw/share/doc/gcc-arm-none-eabi/info --mandir=/mnt/workspace/workspace/GCC-10-pipeline/jenkins-GCC-10-pipeline-338_20211018_1634516203/install-mingw/share/doc/gcc-arm-none-eabi/man --htmldir=/mnt/workspace/workspace/GCC-10-pipeline/jenkins-GCC-10-pipeline-338_20211018_1634516203/install-mingw/share/doc/gcc-arm-none-eabi/html --pdfdir=/mnt/workspace/workspace/GCC-10-pipeline/jenkins-GCC-10-pipeline-338_20211018_1634516203/install-mingw/share/doc/gcc-arm-none-eabi/pdf --enable-languages=c,c++ --enable-mingw-wildcard --disable-decimal-float --disable-libffi --disable-libgomp --disable-libmudflap --disable-libquadmath --disable-libssp --disable-libstdcxx-pch --disable-nls --disable-shared --disable-threads --disable-tls --with-gnu-as --with-gnu-ld --with-headers=yes --with-newlib --with-python-dir=share/gcc-arm-none-eabi --with-sysroot=/mnt/workspace/workspace/GCC-10-pipeline/jenkins-GCC-10-pipeline-338_20211018_1634516203/install-mingw/arm-none-eabi --with-libiconv-prefix=/mnt/workspace/workspace/GCC-10-pipeline/jenkins-GCC-10-pipeline-338_20211018_1634516203/build-mingw/host-libs/usr --with-gmp=/mnt/workspace/workspace/GCC-10-pipeline/jenkins-GCC-10-pipeline-338_20211018_1634516203/build-mingw/host-libs/usr --with-mpfr=/mnt/workspace/workspace/GCC-10-pipeline/jenkins-GCC-10-pipeline-338_20211018_1634516203/build-mingw/host-libs/usr --with-mpc=/mnt/workspace/workspace/GCC-10-pipeline/jenkins-GCC-10-pipeline-338_20211018_1634516203/build-mingw/host-libs/usr --with-isl=/mnt/workspace/workspace/GCC-10-pipeline/jenkins-GCC-10-pipeline-338_20211018_1634516203/build-mingw/host-libs/usr --with-libelf=/mnt/workspace/workspace/GCC-10-pipeline/jenkins-GCC-10-pipeline-338_20211018_1634516203/build-mingw/host-libs/usr --with-host-libstdcxx='-static-libgcc -Wl,-Bstatic,-lstdc++,-Bdynamic -lm' --with-pkgversion='GNU Arm Embedded Toolchain 10.3-2021.10' --with-multilib-list=rmprofile,aprofile
+Thread model: single
+Supported LTO compression algorithms: zlib
+gcc version 10.3.1 20210824 (release) (GNU Arm Embedded Toolchain 10.3-2021.10) 
+COLLECT_GCC_OPTIONS='-mthumb' '-mcpu=cortex-m4' '-mlittle-endian' '-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-mthumb-interwork' '-specs=nano.specs' '-specs=nosys.specs' '-fno-builtin' '-Wall' '-std=gnu99' '-fdata-sections' '-ffunction-sections' '-g3' '-gdwarf-2' '-v' '-o' 'CMakeFiles/cmTC_7cab0.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp'
+ c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/cc1.exe -isystem =/include/newlib-nano -quiet -v -imultilib thumb/v7e-m+fp/hard -iprefix c:\gnu_arm_embedded_toolchain\10_2021_10\bin\../lib/gcc/arm-none-eabi/10.3.1/ -isysroot c:\gnu_arm_embedded_toolchain\10_2021_10\bin\../arm-none-eabi -dD -D__USES_INITFINI__ C:/Program Files/CMake/share/cmake-3.22/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mthumb -mcpu=cortex-m4 -mlittle-endian -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb-interwork -mlibarch=armv7e-m+fp -march=armv7e-m+fp -auxbase-strip CMakeFiles/cmTC_7cab0.dir/CMakeCCompilerABI.c.obj -g3 -gdwarf-2 -Wall -std=gnu99 -version -fno-builtin -fdata-sections -ffunction-sections -o C:\Users\MATEUS~1\AppData\Local\Temp\cciLKGmW.s
+GNU C99 (GNU Arm Embedded Toolchain 10.3-2021.10) version 10.3.1 20210824 (release) (arm-none-eabi)
+	compiled by GNU C version 7.3-win32 20180312, GMP version 6.1.0, MPFR version 3.1.4, MPC version 1.0.3, isl version isl-0.18-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring duplicate directory "c:/gnu_arm_embedded_toolchain/10_2021_10/lib/gcc/../../lib/gcc/arm-none-eabi/10.3.1/include"
+ignoring nonexistent directory "c:\gnu_arm_embedded_toolchain\10_2021_10\bin\../arm-none-eabi/mnt/workspace/workspace/GCC-10-pipeline/jenkins-GCC-10-pipeline-338_20211018_1634516203/install-mingw/lib/gcc/arm-none-eabi/10.3.1/../../../../include"
+ignoring duplicate directory "c:/gnu_arm_embedded_toolchain/10_2021_10/lib/gcc/../../lib/gcc/arm-none-eabi/10.3.1/include-fixed"
+ignoring duplicate directory "c:/gnu_arm_embedded_toolchain/10_2021_10/lib/gcc/../../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include"
+ignoring nonexistent directory "c:\gnu_arm_embedded_toolchain\10_2021_10\bin\../arm-none-eabi/usr/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ c:\gnu_arm_embedded_toolchain\10_2021_10\bin\../arm-none-eabi/include/newlib-nano
+ c:\gnu_arm_embedded_toolchain\10_2021_10\bin\../lib/gcc/arm-none-eabi/10.3.1/include
+ c:\gnu_arm_embedded_toolchain\10_2021_10\bin\../lib/gcc/arm-none-eabi/10.3.1/include-fixed
+ c:\gnu_arm_embedded_toolchain\10_2021_10\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include
+End of search list.
+GNU C99 (GNU Arm Embedded Toolchain 10.3-2021.10) version 10.3.1 20210824 (release) (arm-none-eabi)
+	compiled by GNU C version 7.3-win32 20180312, GMP version 6.1.0, MPFR version 3.1.4, MPC version 1.0.3, isl version isl-0.18-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: f3937ce18b4177bfd408ca565336596a
+COLLECT_GCC_OPTIONS='-mthumb' '-mcpu=cortex-m4' '-mlittle-endian' '-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-mthumb-interwork' '-specs=nano.specs' '-specs=nosys.specs' '-fno-builtin' '-Wall' '-std=gnu99' '-fdata-sections' '-ffunction-sections' '-g3' '-gdwarf-2' '-v' '-o' 'CMakeFiles/cmTC_7cab0.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp'
+ c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/as.exe -v -EL -march=armv7e-m -mthumb-interwork -mfloat-abi=hard -mfpu=fpv4-sp-d16 -meabi=5 -o CMakeFiles/cmTC_7cab0.dir/CMakeCCompilerABI.c.obj C:\Users\MATEUS~1\AppData\Local\Temp\cciLKGmW.s
+GNU assembler version 2.36.1 (arm-none-eabi) using BFD version (GNU Arm Embedded Toolchain 10.3-2021.10) 2.36.1.20210621
+COMPILER_PATH=c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/;c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/;c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/
+LIBRARY_PATH=c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/;c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/;c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../arm-none-eabi/lib/thumb/v7e-m+fp/hard/;c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/;c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/;c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/;c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../arm-none-eabi/lib/
+COLLECT_GCC_OPTIONS='-mthumb' '-mcpu=cortex-m4' '-mlittle-endian' '-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-mthumb-interwork' '-specs=nano.specs' '-specs=nosys.specs' '-fno-builtin' '-Wall' '-std=gnu99' '-fdata-sections' '-ffunction-sections' '-g3' '-gdwarf-2' '-v' '-o' 'CMakeFiles/cmTC_7cab0.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp'
+Linking C static library libcmTC_7cab0.a
+"C:/Program Files/CMake/bin/cmake.exe" -P CMakeFiles/cmTC_7cab0.dir/cmake_clean_target.cmake
+"C:/Program Files/CMake/bin/cmake.exe" -E cmake_link_script CMakeFiles/cmTC_7cab0.dir/link.txt --verbose=1
+C:/GNU_Arm_Embedded_Toolchain/10_2021_10/bin/arm-none-eabi-ar.exe qc libcmTC_7cab0.a CMakeFiles/cmTC_7cab0.dir/CMakeCCompilerABI.c.obj
+C:/GNU_Arm_Embedded_Toolchain/10_2021_10/bin/arm-none-eabi-ranlib.exe libcmTC_7cab0.a
+make.exe[1]: Leaving directory 'D:/STAZ2022/templete_emb/build/CMakeFiles/CMakeTmp'
+
+
+
+Parsed C implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../arm-none-eabi/include/newlib-nano]
+    add: [c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/include]
+    add: [c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/include-fixed]
+    add: [c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include]
+  end of search list found
+  collapse include dir [c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../arm-none-eabi/include/newlib-nano] ==> [C:/GNU_Arm_Embedded_Toolchain/10_2021_10/arm-none-eabi/include/newlib-nano]
+  collapse include dir [c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/include] ==> [C:/GNU_Arm_Embedded_Toolchain/10_2021_10/lib/gcc/arm-none-eabi/10.3.1/include]
+  collapse include dir [c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/include-fixed] ==> [C:/GNU_Arm_Embedded_Toolchain/10_2021_10/lib/gcc/arm-none-eabi/10.3.1/include-fixed]
+  collapse include dir [c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include] ==> [C:/GNU_Arm_Embedded_Toolchain/10_2021_10/arm-none-eabi/include]
+  implicit include dirs: [C:/GNU_Arm_Embedded_Toolchain/10_2021_10/arm-none-eabi/include/newlib-nano;C:/GNU_Arm_Embedded_Toolchain/10_2021_10/lib/gcc/arm-none-eabi/10.3.1/include;C:/GNU_Arm_Embedded_Toolchain/10_2021_10/lib/gcc/arm-none-eabi/10.3.1/include-fixed;C:/GNU_Arm_Embedded_Toolchain/10_2021_10/arm-none-eabi/include]
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(arm-none-eabi-ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: D:/STAZ2022/templete_emb/build/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):C:/MinGW/bin/make.exe -f Makefile cmTC_7cab0/fast && C:/MinGW/bin/make.exe  -f CMakeFiles/cmTC_7cab0.dir/build.make CMakeFiles/cmTC_7cab0.dir/build]
+  ignore line: [make.exe[1]: Entering directory 'D:/STAZ2022/templete_emb/build/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_7cab0.dir/CMakeCCompilerABI.c.obj]
+  ignore line: [C:/GNU_Arm_Embedded_Toolchain/10_2021_10/bin/arm-none-eabi-gcc.exe   -mthumb -mcpu=cortex-m4 -mlittle-endian -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb-interwork --specs=nano.specs --specs=nosys.specs  -fno-builtin -Wall -std=gnu99 -fdata-sections -ffunction-sections -g3 -gdwarf-2    -v -o CMakeFiles/cmTC_7cab0.dir/CMakeCCompilerABI.c.obj -c "C:/Program Files/CMake/share/cmake-3.22/Modules/CMakeCCompilerABI.c"]
+  ignore line: [Using built-in specs.]
+  ignore line: [Reading specs from c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/nano.specs]
+  ignore line: [rename spec link to nano_link]
+  ignore line: [rename spec link_gcc_c_sequence to nano_link_gcc_c_sequence]
+  ignore line: [rename spec cpp_unique_options to nano_cpp_unique_options]
+  ignore line: [Reading specs from c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/nosys.specs]
+  ignore line: [rename spec link_gcc_c_sequence to nosys_link_gcc_c_sequence]
+  ignore line: [COLLECT_GCC=C:/GNU_Arm_Embedded_Toolchain/10_2021_10/bin/arm-none-eabi-gcc.exe]
+  ignore line: [Target: arm-none-eabi]
+  ignore line: [Configured with: /mnt/workspace/workspace/GCC-10-pipeline/jenkins-GCC-10-pipeline-338_20211018_1634516203/src/gcc/configure --build=x86_64-linux-gnu --host=i686-w64-mingw32 --target=arm-none-eabi --prefix=/mnt/workspace/workspace/GCC-10-pipeline/jenkins-GCC-10-pipeline-338_20211018_1634516203/install-mingw --libexecdir=/mnt/workspace/workspace/GCC-10-pipeline/jenkins-GCC-10-pipeline-338_20211018_1634516203/install-mingw/lib --infodir=/mnt/workspace/workspace/GCC-10-pipeline/jenkins-GCC-10-pipeline-338_20211018_1634516203/install-mingw/share/doc/gcc-arm-none-eabi/info --mandir=/mnt/workspace/workspace/GCC-10-pipeline/jenkins-GCC-10-pipeline-338_20211018_1634516203/install-mingw/share/doc/gcc-arm-none-eabi/man --htmldir=/mnt/workspace/workspace/GCC-10-pipeline/jenkins-GCC-10-pipeline-338_20211018_1634516203/install-mingw/share/doc/gcc-arm-none-eabi/html --pdfdir=/mnt/workspace/workspace/GCC-10-pipeline/jenkins-GCC-10-pipeline-338_20211018_1634516203/install-mingw/share/doc/gcc-arm-none-eabi/pdf --enable-languages=c,c++ --enable-mingw-wildcard --disable-decimal-float --disable-libffi --disable-libgomp --disable-libmudflap --disable-libquadmath --disable-libssp --disable-libstdcxx-pch --disable-nls --disable-shared --disable-threads --disable-tls --with-gnu-as --with-gnu-ld --with-headers=yes --with-newlib --with-python-dir=share/gcc-arm-none-eabi --with-sysroot=/mnt/workspace/workspace/GCC-10-pipeline/jenkins-GCC-10-pipeline-338_20211018_1634516203/install-mingw/arm-none-eabi --with-libiconv-prefix=/mnt/workspace/workspace/GCC-10-pipeline/jenkins-GCC-10-pipeline-338_20211018_1634516203/build-mingw/host-libs/usr --with-gmp=/mnt/workspace/workspace/GCC-10-pipeline/jenkins-GCC-10-pipeline-338_20211018_1634516203/build-mingw/host-libs/usr --with-mpfr=/mnt/workspace/workspace/GCC-10-pipeline/jenkins-GCC-10-pipeline-338_20211018_1634516203/build-mingw/host-libs/usr --with-mpc=/mnt/workspace/workspace/GCC-10-pipeline/jenkins-GCC-10-pipeline-338_20211018_1634516203/build-mingw/host-libs/usr --with-isl=/mnt/workspace/workspace/GCC-10-pipeline/jenkins-GCC-10-pipeline-338_20211018_1634516203/build-mingw/host-libs/usr --with-libelf=/mnt/workspace/workspace/GCC-10-pipeline/jenkins-GCC-10-pipeline-338_20211018_1634516203/build-mingw/host-libs/usr --with-host-libstdcxx='-static-libgcc -Wl,-Bstatic,-lstdc++,-Bdynamic -lm' --with-pkgversion='GNU Arm Embedded Toolchain 10.3-2021.10' --with-multilib-list=rmprofile,aprofile]
+  ignore line: [Thread model: single]
+  ignore line: [Supported LTO compression algorithms: zlib]
+  ignore line: [gcc version 10.3.1 20210824 (release) (GNU Arm Embedded Toolchain 10.3-2021.10) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-mthumb' '-mcpu=cortex-m4' '-mlittle-endian' '-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-mthumb-interwork' '-specs=nano.specs' '-specs=nosys.specs' '-fno-builtin' '-Wall' '-std=gnu99' '-fdata-sections' '-ffunction-sections' '-g3' '-gdwarf-2' '-v' '-o' 'CMakeFiles/cmTC_7cab0.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp']
+  ignore line: [ c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/cc1.exe -isystem =/include/newlib-nano -quiet -v -imultilib thumb/v7e-m+fp/hard -iprefix c:\gnu_arm_embedded_toolchain\10_2021_10\bin\../lib/gcc/arm-none-eabi/10.3.1/ -isysroot c:\gnu_arm_embedded_toolchain\10_2021_10\bin\../arm-none-eabi -dD -D__USES_INITFINI__ C:/Program Files/CMake/share/cmake-3.22/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mthumb -mcpu=cortex-m4 -mlittle-endian -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb-interwork -mlibarch=armv7e-m+fp -march=armv7e-m+fp -auxbase-strip CMakeFiles/cmTC_7cab0.dir/CMakeCCompilerABI.c.obj -g3 -gdwarf-2 -Wall -std=gnu99 -version -fno-builtin -fdata-sections -ffunction-sections -o C:\Users\MATEUS~1\AppData\Local\Temp\cciLKGmW.s]
+  ignore line: [GNU C99 (GNU Arm Embedded Toolchain 10.3-2021.10) version 10.3.1 20210824 (release) (arm-none-eabi)]
+  ignore line: [	compiled by GNU C version 7.3-win32 20180312  GMP version 6.1.0  MPFR version 3.1.4  MPC version 1.0.3  isl version isl-0.18-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring duplicate directory "c:/gnu_arm_embedded_toolchain/10_2021_10/lib/gcc/../../lib/gcc/arm-none-eabi/10.3.1/include"]
+  ignore line: [ignoring nonexistent directory "c:\gnu_arm_embedded_toolchain\10_2021_10\bin\../arm-none-eabi/mnt/workspace/workspace/GCC-10-pipeline/jenkins-GCC-10-pipeline-338_20211018_1634516203/install-mingw/lib/gcc/arm-none-eabi/10.3.1/../../../../include"]
+  ignore line: [ignoring duplicate directory "c:/gnu_arm_embedded_toolchain/10_2021_10/lib/gcc/../../lib/gcc/arm-none-eabi/10.3.1/include-fixed"]
+  ignore line: [ignoring duplicate directory "c:/gnu_arm_embedded_toolchain/10_2021_10/lib/gcc/../../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include"]
+  ignore line: [ignoring nonexistent directory "c:\gnu_arm_embedded_toolchain\10_2021_10\bin\../arm-none-eabi/usr/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ c:\gnu_arm_embedded_toolchain\10_2021_10\bin\../arm-none-eabi/include/newlib-nano]
+  ignore line: [ c:\gnu_arm_embedded_toolchain\10_2021_10\bin\../lib/gcc/arm-none-eabi/10.3.1/include]
+  ignore line: [ c:\gnu_arm_embedded_toolchain\10_2021_10\bin\../lib/gcc/arm-none-eabi/10.3.1/include-fixed]
+  ignore line: [ c:\gnu_arm_embedded_toolchain\10_2021_10\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C99 (GNU Arm Embedded Toolchain 10.3-2021.10) version 10.3.1 20210824 (release) (arm-none-eabi)]
+  ignore line: [	compiled by GNU C version 7.3-win32 20180312  GMP version 6.1.0  MPFR version 3.1.4  MPC version 1.0.3  isl version isl-0.18-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [Compiler executable checksum: f3937ce18b4177bfd408ca565336596a]
+  ignore line: [COLLECT_GCC_OPTIONS='-mthumb' '-mcpu=cortex-m4' '-mlittle-endian' '-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-mthumb-interwork' '-specs=nano.specs' '-specs=nosys.specs' '-fno-builtin' '-Wall' '-std=gnu99' '-fdata-sections' '-ffunction-sections' '-g3' '-gdwarf-2' '-v' '-o' 'CMakeFiles/cmTC_7cab0.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp']
+  ignore line: [ c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/as.exe -v -EL -march=armv7e-m -mthumb-interwork -mfloat-abi=hard -mfpu=fpv4-sp-d16 -meabi=5 -o CMakeFiles/cmTC_7cab0.dir/CMakeCCompilerABI.c.obj C:\Users\MATEUS~1\AppData\Local\Temp\cciLKGmW.s]
+  ignore line: [GNU assembler version 2.36.1 (arm-none-eabi) using BFD version (GNU Arm Embedded Toolchain 10.3-2021.10) 2.36.1.20210621]
+  ignore line: [COMPILER_PATH=c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/]
+  ignore line: [c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/]
+  ignore line: [c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/]
+  ignore line: [LIBRARY_PATH=c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/]
+  ignore line: [c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/]
+  ignore line: [c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../arm-none-eabi/lib/thumb/v7e-m+fp/hard/]
+  ignore line: [c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/]
+  ignore line: [c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/]
+  ignore line: [c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/]
+  ignore line: [c:/gnu_arm_embedded_toolchain/10_2021_10/bin/../arm-none-eabi/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-mthumb' '-mcpu=cortex-m4' '-mlittle-endian' '-mfpu=fpv4-sp-d16' '-mfloat-abi=hard' '-mthumb-interwork' '-specs=nano.specs' '-specs=nosys.specs' '-fno-builtin' '-Wall' '-std=gnu99' '-fdata-sections' '-ffunction-sections' '-g3' '-gdwarf-2' '-v' '-o' 'CMakeFiles/cmTC_7cab0.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp']
+  ignore line: [Linking C static library libcmTC_7cab0.a]
+  ignore line: ["C:/Program Files/CMake/bin/cmake.exe" -P CMakeFiles/cmTC_7cab0.dir/cmake_clean_target.cmake]
+  ignore line: ["C:/Program Files/CMake/bin/cmake.exe" -E cmake_link_script CMakeFiles/cmTC_7cab0.dir/link.txt --verbose=1]
+  ignore line: [C:/GNU_Arm_Embedded_Toolchain/10_2021_10/bin/arm-none-eabi-ar.exe qc libcmTC_7cab0.a CMakeFiles/cmTC_7cab0.dir/CMakeCCompilerABI.c.obj]
+  ignore line: [C:/GNU_Arm_Embedded_Toolchain/10_2021_10/bin/arm-none-eabi-ranlib.exe libcmTC_7cab0.a]
+  ignore line: [make.exe[1]: Leaving directory 'D:/STAZ2022/templete_emb/build/CMakeFiles/CMakeTmp']
+  ignore line: []
+  ignore line: []
+  implicit libs: []
+  implicit objs: []
+  implicit dirs: []
+  implicit fwks: []
+
+

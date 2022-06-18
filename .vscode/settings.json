@@ -1,0 +1,9 @@
+{
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "*html": "html",
+        "stm32f4xx.h": "c",
+        "my_lib.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

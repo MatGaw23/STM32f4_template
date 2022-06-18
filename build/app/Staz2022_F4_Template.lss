@@ -1,0 +1,61 @@
+
+Staz2022_F4_Template.elf:     file format elf32-littlearm
+
+
+Disassembly of section .text:
+
+08000000 <__do_global_dtors_aux>:
+ 8000000:	b510      	push	{r4, lr}
+ 8000002:	4c05      	ldr	r4, [pc, #20]	; (8000018 <__do_global_dtors_aux+0x18>)
+ 8000004:	7823      	ldrb	r3, [r4, #0]
+ 8000006:	b933      	cbnz	r3, 8000016 <__do_global_dtors_aux+0x16>
+ 8000008:	4b04      	ldr	r3, [pc, #16]	; (800001c <__do_global_dtors_aux+0x1c>)
+ 800000a:	b113      	cbz	r3, 8000012 <__do_global_dtors_aux+0x12>
+ 800000c:	4804      	ldr	r0, [pc, #16]	; (8000020 <__do_global_dtors_aux+0x20>)
+ 800000e:	f3af 8000 	nop.w
+ 8000012:	2301      	movs	r3, #1
+ 8000014:	7023      	strb	r3, [r4, #0]
+ 8000016:	bd10      	pop	{r4, pc}
+ 8000018:	20000060 	.word	0x20000060
+ 800001c:	00000000 	.word	0x00000000
+ 8000020:	0800008c 	.word	0x0800008c
+
+08000024 <frame_dummy>:
+ 8000024:	b508      	push	{r3, lr}
+ 8000026:	4b03      	ldr	r3, [pc, #12]	; (8000034 <frame_dummy+0x10>)
+ 8000028:	b11b      	cbz	r3, 8000032 <frame_dummy+0xe>
+ 800002a:	4903      	ldr	r1, [pc, #12]	; (8000038 <frame_dummy+0x14>)
+ 800002c:	4803      	ldr	r0, [pc, #12]	; (800003c <frame_dummy+0x18>)
+ 800002e:	f3af 8000 	nop.w
+ 8000032:	bd08      	pop	{r3, pc}
+ 8000034:	00000000 	.word	0x00000000
+ 8000038:	20000064 	.word	0x20000064
+ 800003c:	0800008c 	.word	0x0800008c
+
+08000040 <all_implied_fbits>:
+ 8000040:	3e0b3e3b 3e253e10 3e033e33 3e143e06     ;>.>.>%>3>.>.>.>
+ 8000050:	3e0d3e0e 3e123e24 3e023e27 3e093e18     .>.>$>.>'>.>.>.>
+ 8000060:	00003e0a                                .>..
+
+08000064 <_global_impure_ptr>:
+ 8000064:	20000000                                ... 
+
+08000068 <all_implied_fbits>:
+ 8000068:	3e0b3e3b 3e253e10 3e033e33 3e143e06     ;>.>.>%>3>.>.>.>
+ 8000078:	3e0d3e0e 3e123e24 3e023e27 3e093e18     .>.>$>.>'>.>.>.>
+ 8000088:	00003e0a                                .>..
+
+0800008c <__EH_FRAME_BEGIN__>:
+ 800008c:	08000025                                %...
+
+Disassembly of section .init:
+
+08000090 <_init>:
+ 8000090:	b5f8      	push	{r3, r4, r5, r6, r7, lr}
+ 8000092:	bf00      	nop
+
+Disassembly of section .fini:
+
+08000094 <_fini>:
+ 8000094:	b5f8      	push	{r3, r4, r5, r6, r7, lr}
+ 8000096:	bf00      	nop

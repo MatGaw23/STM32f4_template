@@ -1,0 +1,146 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src",
+					"jsonFile" : "directory-src-Debug-c94b7c2814d5a21df52c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "app",
+					"jsonFile" : "directory-app-Debug-7ab44524cbd5ada90c6a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "app",
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "Staz2022_F4_Template",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "My_library::@145eef247bfb46b6828c",
+					"jsonFile" : "target-My_library-Debug-a8b0fa7e99fd79affc9c.json",
+					"name" : "My_library",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Staz2022_F4_Template::@5f5a17c01335469806cb",
+					"jsonFile" : "target-Staz2022_F4_Template-Debug-bd418ec5c79da103411f.json",
+					"name" : "Staz2022_F4_Template",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Staz2022_F4_Template.bin::@5f5a17c01335469806cb",
+					"jsonFile" : "target-Staz2022_F4_Template.bin-Debug-ecaf6e8712024bd9d570.json",
+					"name" : "Staz2022_F4_Template.bin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Staz2022_F4_Template.elf::@5f5a17c01335469806cb",
+					"jsonFile" : "target-Staz2022_F4_Template.elf-Debug-2c1f3aa123e743fff108.json",
+					"name" : "Staz2022_F4_Template.elf",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Staz2022_F4_Template.elf-size::@5f5a17c01335469806cb",
+					"jsonFile" : "target-Staz2022_F4_Template.elf-size-Debug-9f3bf790abb7c8fb4185.json",
+					"name" : "Staz2022_F4_Template.elf-size",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Staz2022_F4_Template.hex::@5f5a17c01335469806cb",
+					"jsonFile" : "target-Staz2022_F4_Template.hex-Debug-e059673772c99c9d95cc.json",
+					"name" : "Staz2022_F4_Template.hex",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Staz2022_F4_Template.lss::@5f5a17c01335469806cb",
+					"jsonFile" : "target-Staz2022_F4_Template.lss-Debug-e98aac3cf63f92f402a5.json",
+					"name" : "Staz2022_F4_Template.lss",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/STAZ2022/templete_emb/build",
+		"source" : "D:/STAZ2022/templete_emb"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

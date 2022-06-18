@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+522e94877a3710c6ff314c985dd6f922 app/CMakeFiles/Staz2022_F4_Template
+c3ebb5005e160a760cd3cecaf0b102ff app/CMakeFiles/Staz2022_F4_Template.bin
+8f2aea4cd2fe17f832032af657a3a7fe app/CMakeFiles/Staz2022_F4_Template.elf-size
+08c927c8880217b295943e78133e3dd2 app/CMakeFiles/Staz2022_F4_Template.hex
+602156e49d4f8dded3cb1a0f3e158f5c app/CMakeFiles/Staz2022_F4_Template.lss
